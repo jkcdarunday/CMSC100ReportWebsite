@@ -1,4 +1,6 @@
 CMSC100ReportWebsite
 ====================
 
-Evil website for evil purposes.
+An evil website with a glorious purpose.
+----------------------------------------
+:D
